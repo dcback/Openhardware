@@ -17,3 +17,4 @@
   - [SX1507/SX1508/SX1509](https://cdn.sparkfun.com/assets/learn_tutorials/4/3/4/sx150x_789.pdf)
 * USB2077A_brd01.pdf
   - 7-Port Full-Speed 12Mbps USB 2.0 Hub application schematic 
+  - [USB2077A](http://www.ti.com/lit/ds/symlink/tusb2077a.pdf)

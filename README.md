@@ -18,3 +18,6 @@
 * USB2077A_brd01.pdf
   - 7-Port Full-Speed 12Mbps USB 2.0 Hub application schematic 
   - [USB2077A](http://www.ti.com/lit/ds/symlink/tusb2077a.pdf)
+* arduino_nano_v3x.pdf
+  - arduino_nano 3.0 with CH340g application schematic 
+  - [arduino_nano 3.0](https://www.es.co.th/Schemetic/PDF/ARMB-0022.PDF)
